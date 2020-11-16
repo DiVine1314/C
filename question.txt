@@ -8,6 +8,7 @@
 8. area of circle
 9. LCM & GCD of a number(Both different question do it in one)
 10.Leap year or not / Prime Number
+11. Write a C Program to reverse the given number by the user.
 
 */ Question from faceprep /*
 
