@@ -9,6 +9,10 @@
 9. LCM & GCD of a number(Both different question do it in one)
 10.Leap year or not / Prime Number
 11. Write a C Program to reverse the given number by the user.
-
+12. Write a C Program to print the count of even, odd, and zeros in a given number.
+    eg. Input  12340
+        Output Even = 2.
+               Odd  = 2.
+               Zero = 1.
 */ Question from faceprep /*
 
