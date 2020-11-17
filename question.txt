@@ -14,5 +14,21 @@
         Output Even = 2.
                Odd  = 2.
                Zero = 1.
+
+13. write a Program to generate the following Output.
+    5
+    4 5
+    3 4 5
+    2 3 4 5
+    1 2 3 4 5
+
+14. Write a Program to calculate the sum of all ditits os given input number
+    till it reduce to a single digit.
+    eg. Input:- 489
+        Output:- 3
+    Explanation:- 
+        4+8+9 = 21
+        2+1 = 3
+        therefore 3 is the output.
 */ Question from faceprep /*
 
