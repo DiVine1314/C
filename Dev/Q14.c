@@ -25,7 +25,7 @@ int main()
             sum = sum + rem;
             num = num / 10;
         }
-
+        num = sum;
     }
     printf("%d\n", sum);
     return 0;
