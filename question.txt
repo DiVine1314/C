@@ -42,5 +42,4 @@
             seconr line is an Integer entered by the user.
 
             output is the count of the number in the array.
-*/ Question from faceprep /*
 
