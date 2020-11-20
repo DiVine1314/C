@@ -43,7 +43,7 @@
 
             output is the count of the number in the array.
             
-18. Write a C program to convert specified days into years, weeks and days. Go to the editor
+18. Write a C program to convert specified days into years, weeks and days.
     Note: Ignore leap year.
 
 	Test Data :
