@@ -59,5 +59,12 @@
 	Input total distance in km: 350
 	Input total fuel spent in liters: 5
 	Expected Output:
-	Average consumption (km/lt) 70.000	
-
+	
+20. Write a C program to compute the sum of the two given integer values. If the two values are 
+    the same, then return triple their sum.
+    
+    Input : 2 1
+    Output : 3  [2+1]
+    
+    Input : 2 2
+    Output : 12  [(2+2)*3]
