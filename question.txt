@@ -68,3 +68,18 @@
     
     Input : 2 2
     Output : 12  [(2+2)*3]
+    
+    
+21. Write a C program to check whether a given positive number is a multiple of 3 or a multiple of 7.
+
+22. Write a C program to check which number nearest to the value 100 among two given integers. 
+    Return 0 if the two numbers are equal.
+    
+23. Write a C program to check if two given non-negative integers have the same last digit.
+
+24. Write a C program that accept two integers and return true if either one is 5 or their sum or difference is 5.
+
+25. Write a C program to compute the sum of the two given integers. If one of the given integer value
+    is in the range 10..20 inclusive return 18.
+    
+    
